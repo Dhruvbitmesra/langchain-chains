@@ -22,7 +22,7 @@ They help move from simple prompt calls to **composable, production-ready AI wor
 
 ---
 
-## 🧩 Key Concepts Explained
+## 🧩 Key Concepts Explain
 
 - Why chains are needed beyond single prompts
 - How data flows through a chain
